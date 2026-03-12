@@ -3,7 +3,7 @@
 ════════════════════════════════════════════════════
 
 IMPORTANTE: Antes de ejecutar el proyecto, asegúrese
-de agregar el archivo mysql-connector-java-X.X.XX.jar
+de agregar el archivo mysql-connector-java-5.1.46.jar
 a la carpeta Libraries/ del proyecto y vincularlo
 en NetBeans como librería.
 
@@ -23,7 +23,7 @@ PASOS PARA CONFIGURAR
 1. Iniciar XAMPP y activar el módulo MySQL
 2. En XAMPP, dar clic al boton Admin de MySQL
 3. Importar el archivo data/scriptBD.sql
-4. Agregar mysql-connector-java-X.X.XX.jar a Libraries/
+4. Agregar mysql-connector-java-5.1.46.jar a Libraries/
 5. Ejecutar el proyecto desde la clase Main
 
 ════════════════════════════════════════════════════
