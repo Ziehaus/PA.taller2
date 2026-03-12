@@ -1,0 +1,29 @@
+════════════════════════════════════════════════════
+        INFORMACIÓN DE BASE DE DATOS - MINIPIGS
+════════════════════════════════════════════════════
+
+IMPORTANTE: Antes de ejecutar el proyecto, asegúrese
+de agregar el archivo mysql-connector-java-X.X.XX.jar
+a la carpeta Libraries/ del proyecto y vincularlo
+en NetBeans como librería.
+
+────────────────────────────────────────────────────
+CONFIGURACIÓN DE CONEXIÓN
+────────────────────────────────────────────────────
+Motor:      MySQL (XAMPP)
+Host:       localhost
+Puerto:     3306
+Base datos: minipigs_db
+Usuario:    root
+Contraseña: (vacía)
+
+────────────────────────────────────────────────────
+PASOS PARA CONFIGURAR
+────────────────────────────────────────────────────
+1. Iniciar XAMPP y activar el módulo MySQL
+2. En XAMPP, dar clic al boton Admin de MySQL
+3. Importar el archivo data/scriptBD.sql
+4. Agregar mysql-connector-java-X.X.XX.jar a Libraries/
+5. Ejecutar el proyecto desde la clase Main
+
+════════════════════════════════════════════════════
